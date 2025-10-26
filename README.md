@@ -1,1 +1,9 @@
-# ComputerScience.255
+The DriverPass project started with a client who wanted a way for students to get ready for their driver’s license tests. The system had to let students sign up, buy lesson packages, schedule lessons, take practice exams, and see their progress. Instructors and admins needed tools to handle schedules, students, and payments. My job was to find out what the client needed and design a system that met those needs. I explained the design with clear notes and UML diagrams.
+
+I think I did a good job connecting what the client needed to how the system would work. My UML diagrams, especially the activity and sequence ones, showed the steps for things like scheduling lessons and checking payments. I also explained the technical parts in a way that made sense with real tools and security standards, but still kept it easy to follow.
+
+If I could change one thing, I would make my use case diagram neater and label the outside systems more clearly. I’d also simplify some of the connections so it’s easier to see how actors and actions relate. This would make it easier for people who don’t know much about UML—like new developers or clients—to understand the diagram.
+
+When I design software, I like to break the project into smaller pieces—what users need, what the system has to do, and what tools can make it work. I use diagrams like use case, activity, and sequence diagrams to help me see how everything fits together before writing any code. In the future, I want to keep using both object-oriented and process-based ideas, and stick with Agile so I can stay flexible and catch issues early.
+
+I usually start by figuring out what users need, what the system has to do, and what tools it’ll take to make it work. I use different diagrams to lay it out before coding. In the future, I’ll keep using object-based and process-based methods and stick with Agile to stay flexible and find issues early.
